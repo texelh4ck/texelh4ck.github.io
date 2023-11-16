@@ -5,6 +5,16 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+/*  ---------------------------------------------------
+    Template Name: Dreams
+    Description: Dreams wedding template
+    Author: Colorib
+    Author URI: https://colorlib.com/
+    Version: 1.0
+    Created: Colorib
+---------------------------------------------------------  */
+
+
 (function() {
   "use strict";
 
@@ -182,6 +192,32 @@
         spaceBetween: 20
       }
     }
+  });
+    /*------------------
+        Logo Slider
+    --------------------*/
+    $(".logo__carousel").owlCarousel({
+      loop: true,
+      margin: 100,
+      items: 6,
+      dots: false,
+      smartSpeed: 1200,
+      autoHeight: false,
+      autoplay: true,
+      responsive: {
+          992: {
+              items: 5
+          },
+          768: {
+              items: 4
+          },
+          480: {
+              items: 3
+          },
+          320: {
+              items: 2
+          }
+      }
   });
 
   /**

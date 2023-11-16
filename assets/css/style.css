@@ -1188,3 +1188,11 @@ section .container {
 .credits a:hover {
   color: #fff;
 }
+
+.portfolio-details .portfolio-info .skill-type li + li {
+  margin-top: 0px;
+}
+
+.portfolio-details .portfolio-info .skill-type {
+  margin-bottom: 10px;
+}
