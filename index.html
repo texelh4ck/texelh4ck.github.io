@@ -411,6 +411,34 @@
   <!-- Template Main JS File -->
   <script src="assets/js/jquery-3.3.1.min.js"></script>
   <script src="assets/js/owl.carousel.min.js"></script>
+  <script>
+  /*------------------
+      Logo Slider
+  --------------------*/
+  $(".logo__carousel").owlCarousel({
+      loop: true,
+      margin: 100,
+      items: 6,
+      dots: false,
+      smartSpeed: 1200,
+      autoHeight: false,
+      autoplay: true,
+      responsive: {
+          992: {
+              items: 5
+          },
+          768: {
+              items: 4
+          },
+          480: {
+              items: 3
+          },
+          320: {
+              items: 2
+          }
+      }
+  });
+  </script>
   <script src="assets/js/main.js"></script>
 
 </body>
