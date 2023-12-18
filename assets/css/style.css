@@ -1196,3 +1196,4 @@ section .container {
 .portfolio-details .portfolio-info .skill-type {
   margin-bottom: 10px;
 }
+.swiper-slide > img {width: 100%;}
