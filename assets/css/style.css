@@ -1197,3 +1197,7 @@ section .container {
   margin-bottom: 10px;
 }
 .swiper-slide > img {width: 100%;}
+
+.portfolio .comming-soon {
+  filter: blur(10px);
+}
