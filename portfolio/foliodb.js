@@ -42,6 +42,14 @@ function folio_load(db) {
 
 works = [
     {
+        "name": "Happy 2024",
+        "desc": "3D Motion Graphic",
+        "tag": "filter-motion",
+        "url": "20231231/",
+        "image": "image01.jpg",
+        "status": "online"
+    },
+    {
         "name": "Forest Sunset",
         "desc": "3D Enviroment Design",
         "tag": "filter-enviroment",
