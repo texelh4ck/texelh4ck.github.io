@@ -1201,3 +1201,12 @@ section .container {
 .portfolio .comming-soon {
   filter: blur(10px);
 }
+#demoreel{
+  display: flex;
+  justify-content: center;
+  /* margin-bottom: 10px; */
+  /* height: 500px; */
+}
+#demoreel > iframe{
+  width: 100%;
+}
