@@ -42,6 +42,14 @@ function folio_load(db) {
 
 works = [
     {
+        "name": "Joyo Zombie II",
+        "desc": "3D Product Animation",
+        "tag": "filter-motion filter-product",
+        "url": "20240115/",
+        "image": "image01.jpg",
+        "status": "comming-soon"
+    },
+    {
         "name": "Happy 2024",
         "desc": "3D Motion Graphic",
         "tag": "filter-motion",
@@ -84,7 +92,7 @@ works = [
     {
         "name": "Hack4u Red Team Keyboards",
         "desc": "3D Product Animation",
-        "tag": "filter-motion",
+        "tag": "filter-motion filter-product",
         "url": "20231031/",
         "image": "image01.jpg",
         "status": "online"
@@ -116,7 +124,7 @@ works = [
     {
         "name": "Miniboard",
         "desc": "3D Product Desing",
-        "tag": "filter-motion",
+        "tag": "filter-motion filter-product",
         "url": "20230227/",
         "image": "image01.jpg",
         "status": "online"
