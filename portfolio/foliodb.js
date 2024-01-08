@@ -47,7 +47,7 @@ works = [
         "tag": "filter-motion filter-product",
         "url": "20240115/",
         "image": "image01.jpg",
-        "status": "comming-soon"
+        "status": "online"
     },
     {
         "name": "Happy 2024",
