@@ -45,7 +45,7 @@ works = [
         "name": "Joyo Zombie II",
         "desc": "3D Product Animation",
         "tag": "filter-motion filter-product",
-        "url": "20240115/",
+        "url": "20240109/",
         "image": "image01.jpg",
         "status": "online"
     },
