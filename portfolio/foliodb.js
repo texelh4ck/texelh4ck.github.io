@@ -42,6 +42,14 @@ function folio_load(db) {
 
 works = [
     {
+        "name": "Wall Destruction",
+        "desc": "VFX Simulation",
+        "tag": "filter-motion",
+        "url": "20240113/",
+        "image": "image04.jpg",
+        "status": "online"
+    },
+    {
         "name": "Joyo Zombie II",
         "desc": "3D Product Animation",
         "tag": "filter-motion filter-product",
